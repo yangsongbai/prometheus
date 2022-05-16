@@ -42,7 +42,7 @@ require (
 	github.com/jpillora/backoff v0.0.0-20180909062703-3050d21c67d7 // indirect
 	github.com/json-iterator/go v1.1.7
 	github.com/mailru/easyjson v0.0.0-20190626092158-b2ccc519800e // indirect
-	github.com/miekg/dns v1.1.15
+	github.com/miekg/dns v1.1.25
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f
 	github.com/oklog/run v1.0.0
 	github.com/oklog/ulid v1.3.1
@@ -60,13 +60,12 @@ require (
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
 	go.mongodb.org/mongo-driver v1.0.4 // indirect
-	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4 // indirect
-	golang.org/x/net v0.0.0-20190724013045-ca1201d0de80
+	golang.org/x/net v0.0.0-20190923162816-aa69164e4478
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a
+	golang.org/x/sys v0.0.0-20190924154521-2837fb4f24fe
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
-	golang.org/x/tools v0.0.0-20190813034749-528a2984e271
+	golang.org/x/tools v0.0.0-20190907020128-2ca718005c18
 	google.golang.org/api v0.8.0
 	google.golang.org/genproto v0.0.0-20190801165951-fa694d86fc64
 	google.golang.org/grpc v1.22.1
